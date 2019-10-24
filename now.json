@@ -1,11 +1,3 @@
 {
-    "version": 2,
-    "alias": ["www.irerivictor.com"],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "status": 301,
-            "headers": { "Location": "https://irerivictor.com/$1" }
-        }
-    ]
+    "version": 2
 }
